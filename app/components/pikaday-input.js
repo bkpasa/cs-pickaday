@@ -1,0 +1,1 @@
+export { default } from 'cs-pickaday/components/pikaday-input';
